@@ -1,0 +1,12 @@
+Source: ros-eloquent-eigen3-cmake-module
+Section: misc
+Priority: extra
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-eloquent-ament-cmake, ros-eloquent-ament-cmake-copyright, ros-eloquent-ament-cmake-lint-cmake, ros-eloquent-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-eigen3-cmake-module
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-ros-workspace
+Description: Exports a custom CMake module to find Eigen3.
