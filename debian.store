@@ -1,1 +1,1 @@
-{"base": "c7428eb", "parent": "debian/rolling/eigen3_cmake_module", "previous": "e3c523d", "trim": "", "trimbase": ""}
+{"base": "08368c0", "parent": "debian/galactic/eigen3_cmake_module", "previous": "ad91271", "trim": "", "trimbase": ""}
