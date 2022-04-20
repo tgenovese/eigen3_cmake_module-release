@@ -1,0 +1,12 @@
+Source: ros-humble-eigen3-cmake-module
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-cmake-copyright <!nocheck>, ros-humble-ament-cmake-lint-cmake <!nocheck>, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-eigen3-cmake-module
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ros-workspace
+Description: Exports a custom CMake module to find Eigen3.
