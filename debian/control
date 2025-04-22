@@ -1,0 +1,12 @@
+Source: ros-kilted-eigen3-cmake-module
+Section: misc
+Priority: optional
+Maintainer: Scott K Logan <scott@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ament-cmake-copyright <!nocheck>, ros-kilted-ament-cmake-lint-cmake <!nocheck>, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-eigen3-cmake-module
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-ros-workspace
+Description: Exports a custom CMake module to find Eigen3.
