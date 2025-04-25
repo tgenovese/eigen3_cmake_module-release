@@ -1,0 +1,56 @@
+ros-rolling-eigen3-cmake-module (0.5.0-1bookworm) bookworm; urgency=high
+
+  * Remove CODEOWNERS and mirror-rolling-to-master workflow. (#8 <https://github.com/ros2/eigen3_cmake_module/issues/8>)
+  * Contributors: Chris Lalancette
+
+ -- Scott K Logan <scott@openrobotics.org>  Fri, 25 Apr 2025 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Scott K Logan <scott@openrobotics.org>  Fri, 26 Apr 2024 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Scott K Logan <scott@openrobotics.org>  Thu, 27 Apr 2023 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.2.2-1bookworm) bookworm; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#6 <https://github.com/ros2/eigen3_cmake_module/issues/6>)
+  * Contributors: Audrow Nash
+
+ -- Scott K Logan <scott@openrobotics.org>  Mon, 13 Feb 2023 06:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.2.1-1bookworm) bookworm; urgency=high
+
+  * Mirror rolling to master
+  * Update maintainers (#4 <https://github.com/ros2/eigen3_cmake_module/issues/4>)
+  * Contributors: Audrow Nash, methylDragon
+
+ -- Scott K Logan <scott@openrobotics.org>  Tue, 13 Sep 2022 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Scott K Logan <scott@openrobotics.org>  Fri, 29 Apr 2022 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.1.1-1bookworm) bookworm; urgency=high
+
+  * Handle Eigen3 3.3.4 chocolatey package (#3 <https://github.com/ros2/eigen3_cmake_module/issues/3>)
+  * Update README (#2 <https://github.com/ros2/eigen3_cmake_module/issues/2>)
+  * Contributors: Marya Belanger, Shane Loretz
+
+ -- Scott K Logan <scott@openrobotics.org>  Thu, 08 Aug 2019 05:00:00 -0000
+
+ros-rolling-eigen3-cmake-module (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Initial release (#1 <https://github.com/ros2/eigen3_cmake_module/pull/1>)
+  * Contributors: Shane Loretz
+
+ -- Scott K Logan <scott@openrobotics.org>  Tue, 06 Aug 2019 05:00:00 -0000
+
+
