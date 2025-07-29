@@ -1,3 +1,26 @@
+## eigen3_cmake_module (jazzy) - 0.3.0-4
+
+The packages in the `eigen3_cmake_module` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/eigen3_cmake_module-release.git eigen3_cmake_module` on `Tue, 29 Jul 2025 14:10:31 -0000`
+
+The `eigen3_cmake_module` package was released.
+
+Version of package(s) in repository `eigen3_cmake_module`:
+
+- upstream repository: https://github.com/ros2/eigen3_cmake_module.git
+- release repository: https://github.com/tgenovese/eigen3_cmake_module-release.git
+- rosdistro version: `0.3.0-3`
+- old version: `0.3.0-3`
+- new version: `0.3.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## eigen3_cmake_module (rolling) - 0.5.0-1
 
 The packages in the `eigen3_cmake_module` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release eigen3_cmake_module -r rolling` on `Fri, 25 Apr 2025 23:56:07 -0000`
