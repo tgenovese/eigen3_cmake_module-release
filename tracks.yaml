@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/eigen3_cmake_module-release.git
+release_repo_url: git@github.com:tgenovese/eigen3_cmake_module-release.git
 tracks:
   dashing:
     actions:
